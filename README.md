@@ -1,4 +1,4 @@
- html>
+<!DOCTYPE html>
 <html lang="my">
 <head>
     <meta charset="UTF-8">
